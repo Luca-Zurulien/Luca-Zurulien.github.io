@@ -3,6 +3,7 @@
   }
   body {
     background-color: rgb(170, 170, 170);
+    width: 100vh
   }
   #navigation-header {
     display: inline;
